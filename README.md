@@ -20,7 +20,7 @@ pkg install python3
 
 ### Usage Tool
 ```
-git clone https://github.com/HunxByts/GhostTrack.git
+git clone https://github.com/RyzziCyberv1/TrackerRYZ.git
 cd GhostTrack
 pip3 install -r requirements.txt
 python3 GhostTR.py
@@ -48,6 +48,6 @@ Display on the menu ```Username Tracker```
 on this menu you can search for information from the target username on social media
 
 <details>
-<summary>:zap: Author :</summary>
-- <strong><a href="https://github.com/HunxByts">HunxByts</a></strong>
+<summary>:zap: Author :</RyzziCyberv1>
+- <strong><a href="https://github.com/RyzziCyberv1">RyzziCyberv1</a></strong>
 </details>
