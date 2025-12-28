@@ -18,10 +18,10 @@ pkg install python3
 
 ### Usage Tool
 ```
-git clone https://github.com/RyzziCyberv1/TrackerRYZ.git
-cd TrackerRYZ
+git clone https://github.com/RyzziCyberv1/TrackerHunter.git
+cd TrackerHunter
 pip3 install -r requirements.txt
-python3 TrackerCyber.py
+python3 TrackerHT.py
 ```
 
 Display on the menu ```IP Tracker```
